@@ -16,4 +16,3 @@ extern "C"
          	printf("Hello from DLL!\n");
    	}
 }
- 
